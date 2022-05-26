@@ -2,6 +2,11 @@
 
 This package allows you to extract info from Git repositories.
 
+## Prerequisites
+
+- Python 3.x
+- Install python deps with `pip3 install -r requirements.txt`
+
 ## Installation
 
 The package can be installed by adding `repo_miner_py` to your list of dependencies in `mix.exs`:
